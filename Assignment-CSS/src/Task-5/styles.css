@@ -10,7 +10,7 @@ nav.horizontal ul{
     padding: 0px;
     width: 304px;
     overflow: hidden;
-    background-color: rgb(183, 233, 247);
+    background-color: rgb(190, 196, 197);
     border: 2px solid black;
 }
 li a{
@@ -23,6 +23,6 @@ li a{
     float: left;
 }
 a:hover{
-    background-color: rgb(226, 150, 43);
+    background-color: rgb(169, 172, 167);
     color: whitesmoke;
 }
