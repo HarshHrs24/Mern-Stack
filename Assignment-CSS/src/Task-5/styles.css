@@ -23,6 +23,6 @@ li a{
     float: left;
 }
 a:hover{
-    background-color: rgb(169, 172, 167);
+    background-color: rgba(169, 172, 167, 0.784);
     color: whitesmoke;
 }
